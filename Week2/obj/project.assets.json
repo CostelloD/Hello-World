@@ -12225,9 +12225,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCostello\\Source\\Repos\\Hello-World\\Week2\\Week2.csproj",
-      "projectName": "Week2",
-      "projectPath": "C:\\Users\\DCostello\\Source\\Repos\\Hello-World\\Week2\\Week2.csproj",
+      "projectUniqueName": "C:\\Users\\DCostello\\Source\\Repos\\Hello-World\\Week2\\Exercises.csproj",
+      "projectName": "Exercises",
+      "projectPath": "C:\\Users\\DCostello\\Source\\Repos\\Hello-World\\Week2\\Exercises.csproj",
       "packagesPath": "C:\\Users\\DCostello\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DCostello\\Source\\Repos\\Hello-World\\Week2\\obj\\",
       "projectStyle": "PackageReference",

@@ -12,7 +12,7 @@ namespace Week2.pages
 
         public string[] MyTestArray { get; set; } = { "England", "Ireland", "Scotland", "Wales" };
 
-        public string Message { get; set; } = "test";
+        public string Message { get; set; } = "test1";
 
         public void OnGet()
         {

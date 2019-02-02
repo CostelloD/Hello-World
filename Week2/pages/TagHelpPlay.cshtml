@@ -1,0 +1,33 @@
+﻿@page
+@model Week2.pages.TagHelpPlayModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TagHelpPlay</title>
+</head>
+<body>
+
+    <form method="post">
+
+        <label asp-for=Number1>Enter your number here
+            <input asp-for=Number1 />
+            <button type ="submit">Click Here</button>
+        </label>
+
+
+
+
+    </form>
+
+
+
+
+</body>
+</html>
